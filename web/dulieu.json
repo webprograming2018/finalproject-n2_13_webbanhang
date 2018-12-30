@@ -1,0 +1,62 @@
+[
+	{
+		"id":"1",
+		"NameProduct":"Ghế da trắng",
+		"UrlImage":"pro-1.jpg",
+		"Price": "$20"
+	},
+	{
+		"id":"2",
+		"NameProduct":"Da lộn thấp",
+		"UrlImage":"pro-2.jpg",
+		"Price": "$30"
+	},
+	{
+		"id":"3",
+		"NameProduct":"Ghế tựa",
+		"UrlImage":"pro-3.jpg",
+		"Price":"$20"
+	},
+	{
+		"id":"4",
+		"NameProduct":"Giả da nâu",
+		"UrlImage":"pro-4.jpg",
+		"Price": "$30"
+	},
+	{
+		"id":"5",
+		"NameProduct":"Dài xám",
+		"UrlImage":"pro-5.jpg",
+		"Price": "$100"
+	},
+	{
+		"id":"6",
+		"NameProduct":"Dài trắng",
+		"UrlImage":"pro-6.jpg",
+		"Price": "$100"
+	},
+	{
+		"id":"7",
+		"NameProduct":"Cao nâu",
+		"UrlImage":"pro-7.jpg",
+		"Price": "$50"
+	},
+	{
+		"id":"8",
+		"NameProduct":"Trơn thấp",
+		"UrlImage":"pro-8.jpg",
+		"Price": "$40"
+	},
+	{
+		"id":"9",
+		"NameProduct":"Ghế đệm mút",
+		"UrlImage":"pro-9.jpg",
+		"Price": "$70"
+	},
+	{
+		"id":"10",
+		"NameProduct":"Ghế đệm hơi",
+		"UrlImage":"pro-10.jpg",
+		"Price": "$80"
+	}
+]
